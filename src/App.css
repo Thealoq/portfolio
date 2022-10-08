@@ -1,0 +1,284 @@
+.bg-color {
+    background: rgb(164, 164, 166);
+    background: linear-gradient(0deg, rgba(164, 164, 166, 1) 20%, rgba(35, 57, 91, 1) 80%);
+    width: 100%;
+    height: 160px;
+}
+
+.avatar img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+
+.avatar {
+    margin-top: -2rem;
+    width: 70%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.home-button {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 15px;
+    border-radius: 8px;
+    background-color: #23395B;
+    padding: 0.5rem;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.all-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.socialmedia-logos {
+    margin-left: -0.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-log {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.desc-log {
+    font-size: 14px;
+    color: #6a6767;
+}
+
+.text-all {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+
+.socialmedia-logos div {
+    padding: 0.5rem;
+}
+
+.text-align div {
+    padding: 0.2rem;
+}
+
+.text-all {
+    margin-top: 2.3rem;
+}
+
+.about-text {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.desc p {
+    font-size: 14px;
+    color: #6a6767;
+}
+
+.about-text {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bio-card{
+    background-color: #23395B;
+    width: 80%;
+    border-radius: 12px;
+}
+
+.bio-cards {
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1rem;
+}
+
+.boxiy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.boxiy div {
+    padding: 0.5rem;
+}
+
+.still {
+    margin-top: 2rem;
+    width: 80%;
+    border: solid 1px;
+}
+
+.stilly {
+    margin-top: 2rem;
+    width: 100%;
+    border: solid 1px;
+}
+
+.project-text{
+    width: 260px;
+    margin-top: 1rem;
+}
+
+.projectcards {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.projectcard {
+    width: 300px;
+    background-color: #23395B;
+    border-radius: 12px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-all {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+
+.bg-cardsiy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0094FB;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+
+.gname {
+    margin-top: 1rem;
+}
+
+
+.projects-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+
+.repo-with {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #23395B;
+    width: 80%;
+    height: 80px;
+    border-radius: 12px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.repo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.repo img{
+    width: 100px;
+}
+
+.github-avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-repo {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.text-repo  div{
+    padding: 0.3rem;
+}
+
+@media only screen and (max-width: 750px) {
+   .repo-center {
+    flex-direction: column;
+   }
+
+   .bio-card{
+    height: 250px;
+    width: 100%;
+   }
+   .bio-cards{
+    height: auto;
+    flex-direction: column;
+   }
+
+   .avatar {
+    width: auto;
+   }
+
+   .about-text{
+    width: 80%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   }
+
+   .desc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   }
+   
+   .desc-github{
+    font-size: 12px;
+    width: 150px;
+   }
+
+   .title-github{
+    font-size: 15px;
+    width: 150px;
+   }
+
+  }
+  

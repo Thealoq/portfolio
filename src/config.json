@@ -1,0 +1,45 @@
+{
+    "name": "Thealoq Code",
+    "job": "Backend & Frontend Developer",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium",
+    "Location": "🌍 Alaska, United States",
+    "bio-job": "Developer",
+    "email": "Hi@Portofoio.io",
+    "footerName": "Thealoq",
+    "githubname": "thealoq",
+    "instagram": "https://www.instagram.com/thealoq",
+    "github": "https://github.com/thealoq",
+    "youtube": "https://www.youtube.com/channel/UCdRdD1r4IB0xI9PcFoTkLBg",
+    "projects": [
+        {
+            "name": "İnstagram",
+            "desc": "Social Media Platform",
+            "link": "/"
+        },
+        {
+            "name": "İnstagram",
+            "desc": "Social Media Platform",
+            "link": "/"
+        },
+        {
+            "name": "İnstagram",
+            "desc": "Social Media Platform",
+            "link": "/"
+        },
+        {
+            "name": "İnstagram",
+            "desc": "Social Media Platform",
+            "link": "/"
+        },
+        {
+            "name": "İnstagram",
+            "desc": "Social Media Platform",
+            "link": "/"
+        },
+        {
+            "name": "İnstagram",
+            "desc": "Social Media Platform",
+            "link": "/"
+        }
+    ]
+}
