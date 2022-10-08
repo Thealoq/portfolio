@@ -31,7 +31,7 @@ export default function BioPage() {
 
                     </div>
                 </div>
-                <div className="home-button">Visit Repo</div>
+                <div className="home-button"><a href="https://github.com/Thealoq/portfolio">Visit Repo</a></div>
             </div>
             <div className="center ">
                 <div className="about-text repo-center">
